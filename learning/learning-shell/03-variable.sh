@@ -8,7 +8,7 @@ echo $a
 #or
 echo ${a}
 
-# Arithemetic Substitution
+# Arithmetic Substitution
 b=$((3+5))
 echo $b
 
