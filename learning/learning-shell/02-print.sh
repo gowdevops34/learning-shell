@@ -28,5 +28,5 @@ echo -e "Hello \n How are you doing \n Good day"
 # MAGENTA      35            \e[35m
 # CYAN         36            \e[36m
 
-echo -e "\e[31mHello in red color"
+echo -e "\e[31mHello in red color\e[0m"
 echo "Hello in normal text color"
