@@ -11,3 +11,8 @@ echo ${a}
 # Arithemetic Substitution
 b=$((3+5))
 echo $b
+
+# Command Substitution
+Date=$(date +%F)
+
+echo Welcome, Today date is $DATE
