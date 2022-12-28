@@ -1,6 +1,6 @@
 #!/bin/bash
 
-b=20
+b=10
 case $a in
   10)
       echo a = 10
