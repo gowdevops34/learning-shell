@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning-ansible" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/learning/learning-ansible" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/roboshop-shell-script" vcs="Git" />
   </component>
 </project>
